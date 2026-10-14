@@ -1,0 +1,19 @@
+# Obsidian : fichiers propres à la machine / à la session
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Systèmes
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets : ne jamais versionner
+*.env
+.env
+*mdp*
+*password*
+*.key
+id_ed25519
+id_rsa
